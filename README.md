@@ -1,40 +1,52 @@
-&lt;h1 align="center"&gt;Hi there 👋, I'm RAAFAT MAHMOUD RAMADAN&lt;/h1&gt;
-&lt;h3 align="center"&gt;Junior Backend Developer | Django & Python Enthusiast from Egypt 🇪🇬&lt;/h3&gt;
+<h1 align="center">Hi there 👋, I'm RAAFAT MAHMOUD RAMADAN</h1>
+<h3 align="center">Junior Backend Developer | Django & Python Enthusiast from Egypt 🇪🇬</h3>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=bloghd&label=Profile%20views&color=0d6efd&style=flat" alt="bloghd" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bloghd&label=Profile%20views&color=0d6efd&style=flat" alt="bloghd" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Django Projects & REST APIs**
-- 🌱 I’m currently learning **Docker, Celery, and Advanced Django**
+- 🔭 I'm currently working on **Django Projects & REST APIs**
+- 🌱 I'm currently learning **Docker, Celery, and Advanced Django**
 - 👨‍💻 All of my projects are available at **[bloghd.github.io](https://bloghd.github.io)**
 - 💬 Ask me about **Python, Django, APIs**
-- 📫 How to reach me: **raafatmahmoud4600@gmail.com**
+- 📫 How to reach me: **[raafatmahmoud4600@gmail.com](mailto:raafatmahmoud4600@gmail.com)**
 - 📍 Located in: **Fayoum, Egypt**
 
 ---
 
 ### 🛠️ Tech Stack
 
-&lt;p align="left"&gt;
-  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/&gt;
-  &lt;img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/&gt;
-  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/&gt;
-  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/&gt;
-  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/&gt;
-  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/&gt;
-  &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/&gt;
-&lt;/p&gt;
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/><br>Django</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br>Redis</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br>Docker</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
+  </tr>
+</table>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=bloghd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=bloghd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bloghd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bloghd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
